@@ -4,3 +4,4 @@ colorama
 matplotlib
 seaborn
 plotly
+kaleido
