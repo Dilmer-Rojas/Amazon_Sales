@@ -9,11 +9,11 @@ Características
 
 product_id - ID del producto
 product_name - Nombre del producto
-categoría - Categoría del Producto
+category - Categoría del Producto
 discounted_price - Precio descontado del producto
 actual_price - Precio real del producto
 porcentaje_descuento - Porcentaje de descuento del producto
-calificación - Calificación del producto
+rating - Calificación del producto
 rating_count - Número de personas que votaron por la calificación de Amazon
 about_product - Descripción del producto
 user_id - ID del usuario que escribió la reseña del producto
