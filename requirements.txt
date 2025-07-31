@@ -1,0 +1,6 @@
+pandas
+numpy
+colorama
+matplotlib
+seaborn
+plotly
