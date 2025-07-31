@@ -1,0 +1,38 @@
+
+https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
+
+Acerca del conjunto de datos
+
+Este conjunto de datos contiene información sobre más de 1000 calificaciones y reseñas de productos de Amazon según sus detalles que aparecen en el sitio web oficial de Amazon.
+
+Características
+
+product_id - ID del producto
+product_name - Nombre del producto
+categoría - Categoría del Producto
+discounted_price - Precio descontado del producto
+actual_price - Precio real del producto
+porcentaje_descuento - Porcentaje de descuento del producto
+calificación - Calificación del producto
+rating_count - Número de personas que votaron por la calificación de Amazon
+about_product - Descripción del producto
+user_id - ID del usuario que escribió la reseña del producto
+user_name - Nombre del usuario que escribió la reseña del producto
+review_id - ID de la reseña del usuario
+review_title - Reseña breve
+review_content - Reseña larga
+img_link - Enlace de la imagen del producto
+product_link - Enlace al sitio web oficial del producto
+
+
+Inspiración
+
+Amazon es una multinacional tecnológica estadounidense cuyos intereses comerciales incluyen el comercio electrónico. Compran y almacenan inventario y se encargan de todo, desde el envío y la fijación de precios hasta el servicio al cliente y las devoluciones. He creado este conjunto de datos para que los usuarios puedan experimentar con él y realizar diversas acciones, como se menciona a continuación.
+
+Tutorial del conjunto de datos
+Comprensión de la jerarquía de conjuntos de datos
+Preprocesamiento de datos
+Análisis exploratorio de datos
+Visualización de datos
+Sistema de recomendaciones.
+Esta es una lista de algunas de las acciones que puede realizar con este conjunto de datos. No se limita a lo mencionado, sino que también se pueden realizar muchas otras.
