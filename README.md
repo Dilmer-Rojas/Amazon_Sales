@@ -7,6 +7,9 @@ Este repositorio contiene la documentación completa del proyecto de **Análisis
 ## Contenido
 
 - [Enlace al dataset de Kaggle](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
+- [Objetivo del Proyecto](#objetivo-del-proyecto)
+- [Preguntas Clave](#preguntas-clave)
+- [Herramientas Utilizadas](#herramientas-utilizadas)
 
 ## Objetivo del Proyecto
 
