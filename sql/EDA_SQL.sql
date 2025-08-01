@@ -51,7 +51,7 @@ WHERE
 GROUP BY 
     LEFT([Nombre Producto], CHARINDEX(' ', [Nombre Producto] + ' ') - 1)
 HAVING 
-    COUNT(*) >= 5  -- puedes ajustar este umbral
+    COUNT(*) >= 5
 ORDER BY 
     Promedio_Calificacion DESC;
 
@@ -92,7 +92,7 @@ WHERE
 GROUP BY 
     [Categoria N 1]
 ORDER BY 
-    [Precio Promedio] DESC;  -- Puedes cambiar a ASC para ver las más baratas
+    [Precio Promedio] DESC;
  
 -- ¿Qué productos presentan mayor diferencia entre el precio original y el precio con descuento?
 SELECT TOP 10
