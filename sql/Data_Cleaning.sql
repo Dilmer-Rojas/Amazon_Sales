@@ -207,6 +207,19 @@ SET
 FROM dbo.amazon_resenas_2 r
 JOIN niveles_pivot n ON r.[ID Producto] = n.[ID Producto];
 
+/* Reemplazar los NULL */
+
+UPDATE dbo.amazon_resenas_2
+SET 
+    [Categoria N 1] = ISNULL([Categoria N 1], 'Sin categoría'),
+    [Categoria N 2] = ISNULL([Categoria N 2], 'Sin categoría'),
+    [Categoria N 3] = ISNULL([Categoria N 3], 'Sin categoría'),
+    [Categoria N 4] = ISNULL([Categoria N 4], 'Sin categoría'),
+    [Categoria N 5] = ISNULL([Categoria N 5], 'Sin categoría'),
+    [Categoria N 6] = ISNULL([Categoria N 6], 'Sin categoría'),
+    [Categoria N 7] = ISNULL([Categoria N 7], 'Sin categoría');
+
+
 /* VER LA TABLA */
 
 SELECT *
