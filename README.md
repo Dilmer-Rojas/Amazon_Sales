@@ -9,6 +9,7 @@ Este repositorio contiene la documentación completa del proyecto de **Análisis
 - [Enlace al dataset de Kaggle](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
 - [Objetivo del Proyecto](#objetivo-del-proyecto)
 - [Preguntas Clave](#preguntas-clave)
+- [Indicadores Clave KPIs](#indicadores-clave-kpis)
 - [Herramientas Utilizadas](#herramientas-utilizadas)
 
 ## Objetivo del Proyecto
@@ -28,6 +29,15 @@ El objetivo principal es identificar patrones, relaciones y tendencias en las re
 * ¿Qué categorías tienen los precios más altos y más bajos, y cómo se relacionan con la satisfacción del cliente? (SQL - POWER BI)
 * ¿Qué productos presentan mayor diferencia entre el precio original y el precio con descuento? (SQL - POWER BI)
 * ¿Existen palabras clave o frases comunes en las reseñas de productos bien valorados? (requiere análisis de texto: NLP básico) (PYTHON)
+
+## Indicadores Clave KPIs
+
+* Promedio de calificaciones por producto
+* Número de reseñas por producto
+* Relación entre descuento (%) y calificación
+* Calificación promedio por categoría
+* Ranking de productos mejor valorados
+
 
 ## Herramientas Utilizadas
 
